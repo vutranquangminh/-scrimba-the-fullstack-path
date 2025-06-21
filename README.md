@@ -1,4 +1,4 @@
-# Scrimba Fullstack Developer Path
+# Scrimba The Fullstack Developer Path
 
 **A monorepo containing all projects from the Scrimba Fullstack Developer Path — and showcasing my growth into a fullstack developer.**
 
